@@ -41,9 +41,9 @@
 - THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 ## Links
-GitHub:
+- GitHub:
 https://github.com/ragil1114/techBlog.git
-Heroku:
+- Heroku:
 https://techblog1114.herokuapp.com/
 
 ## Screenshots
