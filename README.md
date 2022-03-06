@@ -48,4 +48,4 @@ https://techblog1114.herokuapp.com/
 
 ## Screenshots
 ![img](https://github.com/ragil1114/techBlog/blob/main/public/images/demo1.png)
-![img2](https://github.com/ragil1114/techBlog/blob/main/public/images/demo11.1.png)
+![img2](https://github.com/ragil1114/techBlog/blob/main/public/images/demo1.1.png)
